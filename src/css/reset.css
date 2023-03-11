@@ -1,0 +1,11 @@
+body, header, h1, nav, ul, li, main, img, span,h2, p, button, aside, section, input, footer {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	outline: none;
+	line-height: 150%;
+  }
+  
+  ul, ol {
+	list-style: none;
+  }
